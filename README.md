@@ -1,4 +1,4 @@
-# apparel
+# Printwave Promotions
 Printwave Promotions
 
 
